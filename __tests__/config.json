@@ -1,0 +1,17 @@
+{
+  "discord": {
+    "url": "https://discord.com/api/webhooks/856491866098499646/xm9h0T0b8H1cDi9vMEr-6KEbySZ1YuoGg1tfOTUjjl9SAybRBbGGCZreUpqknRb6k9Se"
+  },
+  "slack": {
+    "url": ""
+  },
+  "mail": {
+    "smtp": "",
+    "port": 3000,
+    "secure": false,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}

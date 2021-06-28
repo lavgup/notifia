@@ -1,6 +1,6 @@
 {
   "name": "notifia",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple and lightweight Node library for sending messages to several services online.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
